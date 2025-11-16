@@ -1,1 +1,1 @@
-# decision_optimization
+# Decision Optimization
